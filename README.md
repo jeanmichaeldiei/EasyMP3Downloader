@@ -1,1 +1,1 @@
-# EasyMP3Downloader
+# YTtoMP3 Chrome Extension
