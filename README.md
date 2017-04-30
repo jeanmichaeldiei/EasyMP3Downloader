@@ -1,6 +1,4 @@
 # YTtoMP3 Chrome Extension
-======
-
 
 This chrome extension allows you to download any Youtube video as MP3 easily. Just click on the chrome extension icon when it turns green.
 
