@@ -18,7 +18,9 @@
   "scripts": ["jquery-3.2.1.min.js", "background.js"],
 
   "permissions": [
-    "http://*/"
+    "http://*/",
+    "webNavigation",
+    "tabs" 
   ]
 }
   
